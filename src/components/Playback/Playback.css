@@ -1,0 +1,17 @@
+.playback {
+  display: flex;
+  flex-direction: row;
+}
+
+.controls {
+  width: 140px;
+}
+
+.control {
+  display: inline-block;
+  margin-right: 15px;
+}
+
+.seekbar {
+  width: 100%;
+}
